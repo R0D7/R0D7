@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 
-- 🔭 Working at Alyra blockchain school
 - 🌱 I’m currently learning python, sql, solidity
 
 - ⚡ Blockchain enthusiast, Ethereum lover
